@@ -1,4 +1,4 @@
-# End-to-End Intelligent Document Processing (IDP) in Databricks
+# Intelligent Document Processing (IDP) in Databricks
 
 ## Overview
 
