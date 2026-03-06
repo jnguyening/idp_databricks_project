@@ -6,7 +6,7 @@ This project demonstrates a complete pipeline for transforming unstructured data
 
 ## Key Features
 
-PDF Parsing: Utilizes AI parse document to extract raw text and table data from unstructured PDFs.
-AI Classification: Uses AI classify to automatically categorize files into invoices, purchase orders, or receipts based on their content, not just their filenames.
-Intelligent Extraction: Employs AI extract to pull specific key-value pairs (e.g., vendor name, total amount, date) from categorized documents into structured tables.
-Automated Pipeline: Once set up, new files can be dropped into the volume and processed using a single run all command.
+* PDF Parsing: Utilizes AI parse document to extract raw text and table data from unstructured PDFs.
+* AI Classification: Uses AI classify to automatically categorize files into invoices, purchase orders, or receipts based on their content, not just their filenames.
+* Intelligent Extraction: Employs AI extract to pull specific key-value pairs (e.g., vendor name, total amount, date) from categorized documents into structured tables.
+* Automated Pipeline: Once set up, new files can be dropped into the volume and processed using a single run all command.
